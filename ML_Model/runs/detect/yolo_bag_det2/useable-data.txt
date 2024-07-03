@@ -1,0 +1,44 @@
+test_image.jpg	True
+test_image.jpg	True	0.35
+test_image.jpg	True	0.43
+test_image.jpg	True	0.60
+test_image.jpg	True	0.71
+test_image.jpg	True
+test_image.jpg	True	0.35
+test_image.jpg	True	0.43
+test_image.jpg	True	0.60
+test_image.jpg	True	0.71
+t3.png	True
+t3.png	True	0.32
+t3.png	True	0.35
+t3.png	True	0.44
+t3.png	True	0.45
+t3.png	True	0.50
+t3.png	True	0.53
+t3.png	True	0.73
+t2.png	True
+t2.png	True	0.26
+t2.png	True	0.35
+t2.png	True	0.84
+t2.png	True
+t2.png	True	0.26
+t2.png	True	0.35
+t2.png	True	0.84
+t2.png	True
+t2.png	True	0.26
+t2.png	True	0.35
+t2.png	True	0.84
+t2.png	True
+t2.png	True	0.26
+t2.png	True	0.35
+t2.png	True	0.84
+t1.png	True
+t1.png	True	0.28
+t1.png	True	0.33
+t1.png	True	0.43
+t1.png	True	0.45
+t1.png	True	0.57
+t1.png	True	0.68
+t1.png	True	0.72
+t8.jpg	True
+t8.jpg	True	0.79

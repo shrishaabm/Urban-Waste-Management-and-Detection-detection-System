@@ -1,0 +1,41 @@
+
+after.jpeg	False
+test2.jpg	True
+test2.jpg	True	0.63
+test2.jpg	True	0.82
+test2.jpg	True
+test2.jpg	True	0.47
+after.jpeg	False
+after.jpeg	False
+after.jpeg	False
+after.jpeg	False
+after.jpeg	False
+after.jpeg	False
+test_image.jpg	True
+test_image.jpg	True	0.40
+test_image.jpg	True	0.41
+test_image.jpg	True	0.58
+test_image.jpg	True	0.60
+test_image.jpg	True	0.72
+test_image.jpg	True
+test_image.jpg	True	0.40
+test_image.jpg	True	0.41
+test_image.jpg	True	0.58
+test_image.jpg	True	0.60
+test_image.jpg	True	0.72
+test_image.jpg	True
+test_image.jpg	True	0.40
+test_image.jpg	True	0.41
+test_image.jpg	True	0.58
+test_image.jpg	True	0.60
+test_image.jpg	True	0.72
+t1.jpeg	False
+after.jpeg	False
+after.jpeg	False
+after.jpeg	False
+after.jpeg	False
+test_image.jpg	True
+test_image.jpg	True	0.27
+test_image.jpg	True	0.34
+test_image.jpg	True	0.35
+test_image.jpg	True	0.74
