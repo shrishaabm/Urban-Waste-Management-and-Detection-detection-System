@@ -1,4 +1,4 @@
-# Garbage Detection Website
+# Urban Waste Management and Detection detection System
 
 Welcome to the Garbage Detection Website! This project aims to help keep our streets clean by using machine learning to detect garbage from photos uploaded by users.
 
